@@ -1,0 +1,23 @@
+{
+  "name": "multi-env-expressjs-test-api",
+  "version": "1.0.0",
+  "description": "multi env expressjs api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemalathauvaan/multi-env-expressjs-test-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemalathauvaan/multi-env-expressjs-test-api/issues"
+  },
+  "homepage": "https://github.com/hemalathauvaan/multi-env-expressjs-test-api#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
